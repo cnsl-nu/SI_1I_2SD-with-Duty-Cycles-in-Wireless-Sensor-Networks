@@ -8,3 +8,8 @@ yet remain unexplored. Inspired by compartmental modeling in epidemiology, we pr
 malware strains spreading over WSNs with sleep/awake modes of energy consumption. Referred as the susceptible-infected by strain 1 or by strain 2-susceptible with duty cycles (SI1I2SD), we then derive the basic reproduction number to characterize
 the sufficient conditions for the existence and stability of the infection-free and endemic equilibrium states. 
 Simulation results show the predictive capability of the proposed model for energyefficient WSNs evolving as random geometric graphs against uniformly connected networks.
+
+
+## Visuals
+
+![GEO_Rnd](https://github.com/cnsl-nu/Susceptible-Infected-by-strain-1-or-by-strain-2-Susceptible-with-Duty-cycles-SI1I2SD-/blob/main/visual/GEO_Rnd.gif)
