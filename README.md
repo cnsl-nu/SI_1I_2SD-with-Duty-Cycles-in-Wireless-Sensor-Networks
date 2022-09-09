@@ -1,3 +1,8 @@
+**Acknowledgement:
+  Dmitriy Fedorov, Yrys Tabarak, Aresh Dadlani, Muthukrishnan Senthil Kumar, Vipin Kizheppatt, "Dynamics of Multi-Strain Malware Epidemics over Duty-Cycled Wireless Sensor Networks," in Proc. the Balkan Conference on Communications and Networking (BalkanCom), September 2021.
+**
+
+
 # Susceptible-Infected-by-strain-1-or-by-strain-2-Susceptible-with-Duty-cycles-SI1I2SD
 
 ## Abstract
