@@ -1,5 +1,5 @@
 **Acknowledgement:** 
-*Dmitriy Fedorov, Yrys Tabarak, Aresh Dadlani, Muthukrishnan Senthil Kumar, Vipin Kizheppatt, "Dynamics of Multi-Strain Malware Epidemics over Duty-Cycled Wireless Sensor Networks," in Proc. the Balkan Conference on Communications and Networking (BalkanCom), pp. 1-5, September 2021.* ([DOI](https://doi.org/10.1109/BalkanCom53780.2021.9593147))
+Dmitriy Fedorov, Yrys Tabarak, Aresh Dadlani, Muthukrishnan Senthil Kumar, Vipin Kizheppatt, *"Dynamics of Multi-Strain Malware Epidemics over Duty-Cycled Wireless Sensor Networks,"* in Proc. the Balkan Conference on Communications and Networking (BalkanCom), pp. 1-5, September 2021. ([DOI](https://doi.org/10.1109/BalkanCom53780.2021.9593147))
 
 **You can also find the paper on ResearchGate ([link](https://www.researchgate.net/publication/355920936_Dynamics_of_Multi-Strain_Malware_Epidemics_over_Duty-Cycled_Wireless_Sensor_Networks)).**
 
